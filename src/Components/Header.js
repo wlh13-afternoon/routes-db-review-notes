@@ -3,10 +3,6 @@ import {Link} from 'react-router-dom'
 import '../App.css'
 
 export default class Header extends React.Component{
-    constructor(){
-        super()
-
-    }
     render(){
         return(
             <div className='Header'>

@@ -1,9 +1,8 @@
 import React from 'react'
 import '../App.css'
-import axios from 'axios'
 
 export default function Home (props){
-    console.log(props)
+    // console.log(props)
     
         return(
             <div className='Home'>
